@@ -1,0 +1,11 @@
+Name	Age	Sex
+Luis	21	M
+Pedro	24	M
+Ana	23	F
+Laura	30	F
+Jose	31	M
+Arturo	36	M
+Cesar	20	M
+Karla	19	F
+Hector	28	M
+Israel	32	M
